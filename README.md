@@ -29,7 +29,7 @@ scratch to EXpert level.\
 >###### Face of text
 Paragragraph
 
-for italic use * and forbold use ***  or
+for italic use * and for bold use ***  or
 for italic and bold use underscores _
 
 >_Italic_
